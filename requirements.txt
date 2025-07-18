@@ -1,0 +1,17 @@
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+unittest2>=1.1.0
+
+# API y Mocks
+requests>=2.31.0
+responses>=0.24.0
+
+# Sistema de Usuarios
+sqlite3>=2.6.0
+pycryptodome>=3.19.0  # Para hashing de contraseñas
+email-validator>=2.1.0  # Para validación de emails
+
+# Sistema de Clima
+python-dotenv>=1.0.0  # Para manejo de variables de entorno

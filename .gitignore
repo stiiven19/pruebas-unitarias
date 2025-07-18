@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+*.pyc
+
+# SQLite
+*.db
+usuarios.db
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Entorno virtual
+.env
+.venv
+venv/
+ENV/
+
+# Archivos temporales
+*.tmp
+*.temp
+~*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+*.local
+*.dev
